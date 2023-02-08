@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JustDoIt.Views.ToDoItemPage"
+             Title="{Binding Title}"
+             xmlns:local="clr-namespace:JustDoIt.Models"
+             xmlns:local2="clr-namespace:JustDoIt"
+             xmlns:local3="clr-namespace:JustDoIt.Extensions"
+             xmlns:local4="clr-namespace:JustDoIt.Converters"
+             Style="{StaticResource PageStyle}"
+             Visual="Material">
+    
+    <ContentPage.BindingContext>
+        <local:ToDoNote></local:ToDoNote>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <local4:DateTimeToStringConverter x:Key="dateTimeToStringConverter"/>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <StackLayout Margin="20"
+                 VerticalOptions="StartAndExpand">
+
+            <StackLayout Orientation="Horizontal">
+                <Frame Style="{StaticResource Frame}" 
+                       HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Vertical" 
+                                 HorizontalOptions="Center">
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{local3:Translate CreationDate}" />
+                            <Label Text="{Binding CreationDateTime, Converter={StaticResource dateTimeToStringConverter}}" />
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal">
+                            <Label x:Name="DeadlineDateLabel" Text="{local3:Translate ChooseDeadlineDate}" />
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal" IsVisible="false">
+                            <Label x:Name="DeadlineTimeLabel" Text="{local3:Translate ChosenDeadlineDate}" />
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+                <StackLayout Orientation="Horizontal" IsVisible="false">
+                    <Label Text="{local3:Translate Completed}" VerticalOptions="Center"/>
+                    <Switch IsToggled="{Binding Done}"
+                            Style="{StaticResource PrimarySwitch}"/>
+                </StackLayout>
+
+            </StackLayout>
+
+            <DatePicker x:Name="DeadlineDatePicker"
+                        Format="D"
+                        Date="{Binding DeadlineDateTime}"
+                        DateSelected="OnDateSelected"/>
+
+            <Label Text="{local3:Translate Title}" />
+            
+            <Entry Text="{Binding Title}" />
+            
+            <Label Text="{local3:Translate Description}" />
+
+            <Frame Style="{StaticResource Frame}"
+                   Padding="0"
+                   Margin="0,10,0,0"
+                   CornerRadius="0">
+                <Grid x:Name="TextParametersGrid" HorizontalOptions="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label Grid.Row="0"
+                       Grid.Column="0"
+                       Text="Italic:"
+                       VerticalOptions="Center" />
+                    <CheckBox Grid.Row="0"
+                          Grid.Column="1"
+                          Color="Blue"
+                          CheckedChanged="OnItalicCheckBoxChanged"
+                          VerticalOptions="Center" 
+                          IsChecked="{Binding IsItalic}"/>
+                    <Label Grid.Row="0"
+                       Grid.Column="2"
+                       Text="Bold:"
+                       VerticalOptions="Center" />
+                    <CheckBox Grid.Row="0"
+                          Grid.Column="3"
+                          Color="Green"
+                          CheckedChanged="OnBoldCheckBoxChanged" 
+                          VerticalOptions="Center" 
+                          IsChecked="{Binding IsBold}"/>
+                </Grid>
+            </Frame>
+
+            <Editor x:Name="DescriptionEditor" 
+                    Text="{Binding Description}"
+                    Focused="OnDescriptionEditorFocused" 
+                    Completed="OnDescriptionEditorCompleted"/>
+
+            <local2:HyperlinkLabel Text ="{Binding Source={x:Reference linkEntry}, Path=Text}" 
+                                   Url="{Binding Source={x:Reference linkEntry}, Path=Text}"
+                               PropertyChanged="HyperlinkLabel_PropertyChanged"/>
+            <Entry x:Name="linkEntry" 
+               Text="{Binding Hyperlink, Mode=TwoWay}"/>
+            <Label Text="{local3:Translate TaskPriority}"/>
+
+            <Picker Title="{local3:Translate Select}" 
+                    SelectedIndexChanged="OnPriorityChanged">
+                <Picker.Items>
+                    <x:String>!!!</x:String>
+                    <x:String>!!</x:String>
+                    <x:String>!</x:String>
+                </Picker.Items>
+            </Picker>
+            <Label Text="{Binding Priority}" IsVisible="false"/>
+
+            <StackLayout Orientation="Horizontal" IsVisible="false">
+                <Label Text="{local3:Translate FavouriteTask}"
+                       VerticalOptions="Center"/>
+                <CheckBox IsChecked="{Binding IsFavourite}" 
+                      Color="{StaticResource primaryPurple}"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" 
+                         HorizontalOptions="Center"
+                         Margin="0,5,0,0">
+                <Button Text="{local3:Translate DeleteButton}"
+                        Clicked="OnDeleteClicked" 
+                        Style = "{StaticResource MainAttentionButton}"
+                        BackgroundColor="Red"/>
+
+                <Button Text="{local3:Translate SaveButton}"
+                        Clicked="OnSaveClicked" 
+                        Style = "{StaticResource MainAttentionButton}"
+                        BackgroundColor="Green"/>
+            </StackLayout>
+
+            <Button Text="{local3:Translate CancelButton}"
+                    Clicked="OnCancelClicked" 
+                    Style = "{StaticResource MainAttentionButton}"
+                    IsVisible="false"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

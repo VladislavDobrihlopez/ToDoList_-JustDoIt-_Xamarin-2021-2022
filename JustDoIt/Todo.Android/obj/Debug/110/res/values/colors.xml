@@ -1,0 +1,1 @@
+<resources><color name="launcher_background">#F2F4FF</color><color name="colorPrimary">#8980F5</color><color name="colorPrimaryDark">#34312D</color><color name="colorAccent">#8980F5</color><color name="ListViewSelected">@android:color/white</color><color name="ListViewHighlighted">@android:color/holo_green_light</color></resources>

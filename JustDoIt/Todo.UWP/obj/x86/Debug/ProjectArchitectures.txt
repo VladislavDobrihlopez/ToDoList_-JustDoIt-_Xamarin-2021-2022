@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo.UWP\Todo.UWP.csproj;x86

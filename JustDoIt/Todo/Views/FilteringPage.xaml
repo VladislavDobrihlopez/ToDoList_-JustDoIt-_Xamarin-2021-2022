@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JustDoIt.Views.FilteringPage"
+             xmlns:local="clr-namespace:JustDoIt"
+             xmlns:local2="clr-namespace:JustDoIt.Extensions"
+             Style="{StaticResource PageStyle}">
+    <ContentPage.Content>
+        <StackLayout Margin="20,10,20,10">
+        <Grid x:Name="FiltrationOptionsGrid" Margin="0,10,10,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.4*"></ColumnDefinition>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+                <Label Font="16" Text="{local2:Translate FavUnfav}" Grid.Row="0" VerticalOptions="Center" />
+
+            <Switch Grid.Row="0"
+                      Grid.Column="1"
+                      x:Name="checkBoxOnlyFavourites"
+                      HorizontalOptions="Center"
+                      VerticalOptions="Center" 
+                      Toggled ="OnFavouriteCheckBox_CheckedChanged"
+                      Style="{StaticResource PrimarySwitch}"/>
+
+                <Button Text="{local2:Translate Reset}"
+                    Grid.Row="0"
+                    Grid.Column="2"
+                    HorizontalOptions="Fill"
+                    VerticalOptions="Center"
+                    Clicked="OnButtonResetFavUnfavClicked"
+                    Style="{StaticResource SecondaryAttentionButton}"/>
+
+                <Label Font="16" Text="{local2:Translate DoneUndone}" Grid.Row="1" VerticalOptions="Center"/>
+
+
+            <Switch   Grid.Row="1"
+                      Grid.Column="1"
+                      x:Name="checkBoxOnlyDone"
+                      HorizontalOptions="Center"
+                      VerticalOptions="Center" 
+                      Toggled="OnOnlyDoneCheckBox_CheckedChanged"
+                      Style="{StaticResource PrimarySwitch}"/>
+
+            <Button Text="{local2:Translate Reset}"
+                    Grid.Row="1"
+                    Grid.Column="2"
+                    HorizontalOptions="Fill"
+                    VerticalOptions="Center"
+                    Clicked="OnButtonResetDoneUndoneClicked"
+                    Style="{StaticResource SecondaryAttentionButton}"/>
+
+                <Label Font="16" Text="{local2:Translate Priorities}" Grid.Row="2" VerticalOptions="Center"/>
+
+            <StackLayout Grid.Row="2" 
+                         Grid.Column="1" 
+                         Orientation="Horizontal"
+                         Spacing="0"
+                         HorizontalOptions="Center">
+                <CheckBox 
+                      x:Name="checkBoxHighPriority"
+                      IsChecked="True"
+                      Color="{x:Static local:Constants.HighPriority}"
+                      VerticalOptions="Center" 
+                      CheckedChanged="OnPriorityCheckBox_CheckedChanged"/>
+
+                <CheckBox
+                      x:Name="checkBoxMediumPriority"
+                      IsChecked="True"
+                      Color="{x:Static local:Constants.MediumPriority}"
+                      VerticalOptions="Center"
+                      CheckedChanged="OnPriorityCheckBox_CheckedChanged"/>
+                <CheckBox 
+                      x:Name="checkBoxLowPriority"
+                      IsChecked="True"
+                      Color="{x:Static local:Constants.LowPriority}"
+                      VerticalOptions="Center" 
+                      CheckedChanged="OnPriorityCheckBox_CheckedChanged"/>
+            </StackLayout>
+            <Button Text="{local2:Translate Reset}"
+                    Grid.Row="2"
+                    Grid.Column="2"
+                    HorizontalOptions="Fill"
+                    Clicked="OnButtonResetPrioritiesClicked"
+                    Style="{StaticResource SecondaryAttentionButton}"/>
+        </Grid>
+            
+            <Button Text="Вернуть по умолчанию"
+                    Style="{StaticResource SecondaryAttentionButton}" 
+                    HorizontalOptions="Center"
+                    Clicked="OnByDefaultButtonClicked"/>
+            
+            <Button Text="Найти"
+                    Style="{StaticResource MainAttentionButton}" 
+                    HorizontalOptions="Center" 
+                    Clicked="OnFindButtonClicked"/>
+            
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

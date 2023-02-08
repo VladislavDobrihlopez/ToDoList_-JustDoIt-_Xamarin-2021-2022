@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local2="clr-namespace:JustDoIt.Extensions"
+             xmlns:local="clr-namespace:JustDoIt"
+             x:Class="JustDoIt.Views.SortingPage"
+             Style="{StaticResource PageStyle}">
+    <ContentPage.Content>
+        <StackLayout Margin="20,10,20,10">
+            <Grid x:Name ="SortingOptionsGrid" Margin="0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.8*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.2*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label Font="16" 
+                   Text="{local2:Translate ByDescendingPriority}" 
+                   Grid.Row="0"
+                   Grid.Column="0"/>
+                <Switch Grid.Row="0"
+                    Grid.Column="1"
+                    x:Name="SwitchByPriority"
+                    VerticalOptions="Center" 
+                    Toggled ="OnSwitchSorting_Toggled"
+                    Style="{StaticResource PrimarySwitch}"/>
+
+                <Label Font="16" 
+                   Text="{local2:Translate ByDeadline}" 
+                   Grid.Row="1"
+                   Grid.Column="0"/>
+                <Switch Grid.Row="1"
+                    Grid.Column="1"
+                    x:Name="SwitchByDeadlineDate"
+                    VerticalOptions="Center" 
+                    Toggled ="OnSwitchSorting_Toggled"
+                    Style="{StaticResource PrimarySwitch}"/>
+
+                <Button Text="{local2:Translate Reset}"
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    Clicked="OnButtonResetFilter4"
+                    Style="{StaticResource SecondaryAttentionButton}"/>
+            </Grid>
+            <Button Text="Найти"
+                    Style="{StaticResource MainAttentionButton}" 
+                    HorizontalOptions="Center" 
+                    Clicked="OnFindButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

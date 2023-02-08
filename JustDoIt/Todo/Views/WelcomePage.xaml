@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JustDoIt.Views.WelcomePage"
+             xmlns:local="clr-namespace:JustDoIt.Extensions;assembly=JustDoIt"
+             Title ="{local:Translate Welcome}"
+             Style="{StaticResource PageStyle}"
+             Visual="Material">
+
+    <ContentPage.Content>
+        <StackLayout Margin="20" VerticalOptions="Fill">
+            <StackLayout>
+
+                <Frame Style="{StaticResource Frame}" 
+                       BackgroundColor="LightGray" 
+                       Scale="0.7" 
+                       HasShadow="True">
+                    <Image x:Name="Logo" 
+                       Source="Logo.png"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"/>
+
+                    <Frame.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#a88beb"
+                                          Offset="0.1"/>
+                            
+                            <GradientStop Color="#f8ceec"
+                                          Offset="1"/>
+                        </LinearGradientBrush>
+                    </Frame.Background>
+                </Frame>
+
+                <!--<RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Image x:Name="Logo" 
+                       Source="Logo.png"
+                       VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       Scale="0.7"/>
+                    
+                    <BoxView BackgroundColor="LightGray"
+                             RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToView, ElementName=Logo, Property=Width, Factor=0.25, Constant=50}"
+                             RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToView, ElementName=Logo, Property=Height, Factor=0.25, Constant=50}"
+                             />
+                </RelativeLayout>-->
+                
+            </StackLayout>
+
+            <Label Margin="0,-50,0,0" 
+                   Text="Just Do It!"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"/>
+
+            <!--<Label Margin="0,10,0,0"
+                   Text="Цитата дня"
+                   FontSize="20"
+                   HorizontalOptions="Center"/>-->
+
+            <Label x:Name="MotivatingSlogan"
+                   Text="«Ваше время ограничено, поэтому не тратьте его зря на чужую жизнь». &#10; – Стив Джобс"
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"/>
+
+            <Button x:Name ="enterButton"  
+                    Text="{local:TranslateExtension ContinueButton}" 
+                    Style = "{StaticResource MainAttentionButton}"
+                    Clicked="OnButtonClicked"
+                    Margin="0,10,0,0">
+            </Button>
+
+            <Label Text="{local:TranslateExtension FooterInfo}"
+                   TextColor="Gray"
+                   HorizontalOptions="Center"
+                   VerticalOptions="EndAndExpand"
+                   Margin="0,0,0,20"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

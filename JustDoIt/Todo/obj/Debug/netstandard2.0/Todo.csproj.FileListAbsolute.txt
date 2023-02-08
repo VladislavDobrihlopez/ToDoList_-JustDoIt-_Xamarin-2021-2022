@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\bin\Debug\netstandard2.0\Todo.deps.json
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\bin\Debug\netstandard2.0\Todo.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\bin\Debug\netstandard2.0\Todo.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfo.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\refint\Todo.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo\Todo\Todo\obj\Debug\netstandard2.0\ref\Todo.dll

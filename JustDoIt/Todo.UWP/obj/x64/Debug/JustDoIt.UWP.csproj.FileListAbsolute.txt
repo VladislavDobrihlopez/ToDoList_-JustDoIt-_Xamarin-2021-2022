@@ -1,0 +1,363 @@
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\App.xbf
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.xr.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\resources.pri
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\Todo.UWP.exe
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.UWP.build.appxrecipe
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLite-net.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xaml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xbf
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CopyComplete
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\resources.pri
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.UWP.build.appxrecipe
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLite-net.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xaml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CopyComplete
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\resources.pri
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.UWP.build.appxrecipe
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLite-net.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xaml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CopyComplete
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\resources.pri
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Core\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.UWP.build.appxrecipe
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SQLite-net.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\App.xaml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CopyComplete
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\en\JustDoIt.resources.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt\en\JustDoIt.Resource.resw
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Microcharts.Uwp.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Microcharts.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\Microcharts.Forms.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\libEGL.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\libGLESv2.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\libSkiaSharp.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.Views.Interop.UWP.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.Views.UWP.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.xr.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\resources.pri
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Core\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.UWP.build.appxrecipe
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microcharts.Uwp.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microcharts.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microcharts.Forms.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\libEGL.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\libGLESv2.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\libSkiaSharp.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.Views.Interop.UWP.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.Views.UWP.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLite-net.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\bin\x64\Debug\en\JustDoIt.resources.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xaml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\App.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt.UWP.csproj.CopyComplete
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.exe
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\Todo.UWP.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\JustDoIt\en\JustDoIt.Resource.resw
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json

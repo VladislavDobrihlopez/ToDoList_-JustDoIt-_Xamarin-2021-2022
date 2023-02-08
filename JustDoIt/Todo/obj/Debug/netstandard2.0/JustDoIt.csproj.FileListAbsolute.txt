@@ -1,0 +1,174 @@
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\Todo\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\xamarin-forms-samples-main\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoItemPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoItemPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoItemPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoItemPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo — копия — копия — копия — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoItemPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CopyComplete
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.Resource.resources
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.Resource.en.resources
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\bin\Debug\netstandard2.0\en\JustDoIt.resources.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\en\JustDoIt.resources.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\FilteringPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\SortingPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.deps.json
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\en\JustDoIt.resources.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.Resource.resources
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.Resource.en.resources
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\FilteringPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\SortingPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\StatisticsPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoItemPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\ToDoListPage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\en\JustDoIt.resources.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.csproj.CopyComplete
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\refint\JustDoIt.dll
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\JustDoIt.pdb
+C:\Users\User\Desktop\ОПИ\Todo На показ — копия\JustDoIt\Todo\obj\Debug\netstandard2.0\ref\JustDoIt.dll

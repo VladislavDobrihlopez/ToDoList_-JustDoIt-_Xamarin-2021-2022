@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:JustDoIt"
+             xmlns:local2="clr-namespace:JustDoIt.Extensions"
+             xmlns:local3="clr-namespace:JustDoIt.Converters"
+             x:Class="JustDoIt.Views.ToDoListPage"
+             Title="{local2:Translate Tab1}"
+             Style="{StaticResource PageStyle}"
+             Visual="Material">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local3:ColorNumberToColorConverter x:Key="priorityToColorConverter"/>
+            <local3:DoneToImageConverter x:Key="doneToImageConverter"/>
+            <local3:DateTimeToStringConverter x:Key="dateTimeToStringConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        <StackLayout Orientation="Vertical"
+                     Padding="0,10,0,0">
+
+            <!--<Frame HorizontalOptions="Center">
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureFiltration_Tapped"/>
+                </Frame.GestureRecognizers>
+                
+                <StackLayout Orientation="Vertical">
+                    <Label Font="16" 
+                           Text="{local2:Translate Filtration}"
+                           HorizontalOptions="Center"/>
+
+                    <BoxView Color="Black" 
+                             WidthRequest="100" 
+                             HeightRequest="2"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame HorizontalOptions="Center" HasShadow="True" >
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizerSorting_Tapped"/>
+                </Frame.GestureRecognizers>
+                
+                <StackLayout Orientation="Vertical">
+                    <Label Font="16" 
+                           Text="{local2:Translate Sorting}" 
+                           HorizontalOptions="Center"/>
+
+                    <BoxView Color="Black" 
+                             WidthRequest="100" 
+                             HeightRequest="2"  
+                             HorizontalOptions="Center"/>
+                </StackLayout>
+            </Frame>-->
+
+            
+
+            <!--<StackLayout Orientation="Horizontal" HeightRequest="50" HorizontalOptions="Center">
+                
+            </StackLayout>-->
+
+            <Frame Style="{StaticResource Frame}"
+                   Margin="20,20,20,0" 
+                   Padding="10" 
+                   BackgroundColor="{StaticResource SecondaryColor}"
+                   HeightRequest="50">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Button Text="{local2:Translate Filtration}" Style="{StaticResource SecondaryAttentionButton}" Clicked="TapGestureFiltration_Tapped"/>
+                    <Button Text="{local2:Translate Sorting}" Style="{StaticResource SecondaryAttentionButton}" Clicked="TapGestureRecognizerSorting_Tapped"/>
+                    <Frame BorderColor="{StaticResource primaryPurple}" CornerRadius="15">
+                        <Image Source="Settings.png" Scale="2.5"/>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizerAppSettings_Tapped"/>
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </StackLayout>
+            </Frame>
+            
+            <Frame x:Name="listViewFrame" 
+                   Margin="20,5,20,0" 
+                   Padding="15,10,5,10" 
+                   CornerRadius="15"
+                   MinimumHeightRequest="61">
+                <ListView x:Name="listView"
+                          ItemTapped="OnListItemTapped"
+                          RowHeight="60" 
+                          CachingStrategy="RetainElement">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal"
+                                     HorizontalOptions="Fill"
+                                     Margin="0,0,5,0">
+                                    
+                                    <Label Text="{Binding Title}"
+                                           VerticalTextAlignment="Center"
+                                           HorizontalOptions="StartAndExpand" />
+
+                                    <Label Text="{Binding DeadlineDateTime, Converter={StaticResource dateTimeToStringConverter}}"
+                                           VerticalTextAlignment="Center"
+                                           HorizontalOptions="End" />
+                                    <!--<Image Source="heart.png"
+                                   IsVisible="{Binding IsFavourite, Converter={StaticResource doneToImageConverter}, ConverterParameter={Binding IsFavourite}}"
+                                   Scale="0.4"
+                                   VerticalOptions="Center"/>-->
+                                    <Image Source="{Binding IsFavourite, Converter={StaticResource doneToImageConverter}}"
+                                   Scale="0.4"
+                                   VerticalOptions="Center">
+                                        <Image.GestureRecognizers>
+                                            <TapGestureRecognizer Tapped="TapGestureRecognizerHeart_Tapped"/>
+                                        </Image.GestureRecognizers>
+                                    </Image>
+
+
+                                    <CheckBox x:Name="DoneCheckbox"
+                                           CheckedChanged="OnDoneCheckBoxChanged"
+                                           IsChecked="{Binding Done, Mode=TwoWay}"
+                                           HorizontalOptions="End"
+                                           Color="{StaticResource primaryPurple}"/>
+
+                                    <BoxView Color="{Binding Priority, Converter={StaticResource priorityToColorConverter}}" 
+                                         WidthRequest="20"/>
+
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="AddItemButton" 
+                Text="+"
+                Clicked="OnAddButtonClicked" 
+                IsVisible="True"
+                Style="{StaticResource FABPrimary}"/>
+        </StackLayout>
+                <!--AbsoluteLayout.LayoutBounds="1,1,AutoSize,AutoSize"
+                AbsoluteLayout.LayoutFlags="PositionProportional"/>-->
+    </StackLayout>
+</ContentPage>

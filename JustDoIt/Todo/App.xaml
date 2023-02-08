@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JustDoIt.App">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <Color x:Key="primaryPurple">#8980F5</Color>
+            <Color x:Key="PurpleButtonBackgroundColor">#8980F5</Color>
+            <!--<Color x:Key="DarkButtonBackground">"#8980F5"</Color>-->
+            <Color x:Key="PurpleButtonTextColor">White</Color>
+            <Color x:Key="FABColor">#B388FF</Color>
+            <Color x:Key="SecondaryColor">#B388FF</Color>
+            <x:Int32 x:Key="ButtonCornerRadius">25</x:Int32>
+            <x:Int32 x:Key="FrameCornerRadius">15</x:Int32>
+                <!--<Color x:Key="primaryDarkGreen">#6FA22E</Color>-->
+        </ResourceDictionary>
+
+        <Style x:Key ="PageStyle" TargetType="ContentPage" ApplyToDerivedTypes="True">
+            <Setter Property="BackgroundColor" Value="#e9ecf1" />
+        </Style>
+
+        <Style x:Key="Frame" TargetType="Frame">
+            <Setter Property="CornerRadius" Value="{StaticResource FrameCornerRadius}"/>
+            <Setter Property="BackgroundColor" Value="White"/>
+        </Style>
+        
+        <Style x:Key="FABPrimary" TargetType="Button">
+            <Setter Property="BorderColor" Value="LightGray" />
+            <Setter Property="BorderWidth" Value="2"/>
+            <Setter Property="CornerRadius" Value="100"/>
+            <Setter Property="BackgroundColor" Value="{StaticResource FABColor}"/>
+            <Setter Property="HeightRequest" Value="70"/>
+            <Setter Property="WidthRequest" Value="70"/>
+            <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+            <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+            <Setter Property="Padding" Value="2"/>
+            <Setter Property="Margin" Value="0,0,15,15"/>
+            <Setter Property="TextColor" Value="{StaticResource PurpleButtonTextColor}"/>
+            <Setter Property="FontSize" Value="24"/>
+        </Style>
+
+        <Style x:Key="BaseButton" TargetType="Button">
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="CornerRadius" Value="{StaticResource ButtonCornerRadius}"/>
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+
+        <Style x:Key="MainAttentionButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+            <Setter Property="BackgroundColor" Value="{StaticResource PurpleButtonBackgroundColor}"/>
+            <Setter Property="TextColor" Value="{StaticResource PurpleButtonTextColor}"/>
+        </Style>
+
+        <Style x:Key="SecondaryAttentionButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+            <Setter Property="TextColor" Value="{StaticResource FABColor}"/>
+            <Setter Property="BackgroundColor" Value="White"/>
+            <Setter Property="BorderColor" Value="{StaticResource primaryPurple}" />
+            <Setter Property="BorderWidth" Value="1"/>
+
+        </Style>
+
+        <Style x:Key="PrimarySwitch" TargetType="Switch">
+            <Setter Property="ThumbColor" Value="{StaticResource primaryPurple}"/>
+            <Setter Property="OnColor" Value="{StaticResource SecondaryColor}"/>
+        </Style>
+
+    </Application.Resources>
+</Application>
